@@ -14,6 +14,9 @@
 Java is a **programming language** and a **platform** .
 ---
 
+<details>
+<summary>The platform</summary>
+
 ## Java, the platform
 
 To get started you need JDK (Java Dev Kit).  
@@ -28,7 +31,11 @@ For beginning, you need two cli tools bundles with jdk;
 `$ javac` : compiles source code ".java" files to ".class" files  
 `$ java` : executes the program on JVM  
 
+</details>
 
+<details>
+<summary>Dev Environment Setup</summary>
+### Setup
 
     #Where should I download Java?
 
@@ -53,30 +60,27 @@ For beginning, you need two cli tools bundles with jdk;
 
 > source : reddit (r/learnjava)
 
-**But you'll end up using Oracle, trust me on this.**  
+**But you'll end up using Oracle, trust me on this.**   
 
+    Download OpenJDK;    
+    Setup env vars;  
+    Make a folder locally, namely "jiap";  
+    keep a terminal open and `cd` into that folder;  
 
----
+</details>
+<details>
 
-## Hello World!
+<summary>Hello World</summary>
 
-Java code goes into ".java" (files).  
+### Hello World!
 
-Quickly make "hello.java" file in a folder named "jiap".  
-
-```bash
-mkdir jiap
-cd jiap
-touch hello.java
-vi hello.java
-```
-
-Open .java file in an editor (here vim).  
-Write the following into it.  
+    /path/to/jiap/hello.java
 
 ```java
 class HelloWorld{
-    System.out.println("Hello World!");
+    public static void main(String[] args) {
+        System.out.println("Hello World!");
+    }
 }
 ```
 
@@ -93,7 +97,30 @@ OUTPUT :
 
     Hello World!
 
+</details>
 
+---
+
+## Comments
+
+```java
+    // Single Line Comment
+
+    /*
+    Multi
+    Line
+    Comment
+    */
+
+    /*
+    *
+    *
+    * DOCUMENTATION
+    *
+    *
+    */
+```
+---
 
 ## ಥ_ಥ TODO
 
