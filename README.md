@@ -7,141 +7,48 @@
 
 ---
 
+![](https://img.shields.io/badge/Use-Ctrl%20%2B%20F-blue?style=for-the-badge)
+
 # ƸӜƷ
 
+Java is a **programming language** and a **platform** .
 ---
 
 ## Java, the platform
 
-1. JVM, JRE, JDK
+To get started you need JDK (Java Dev Kit).  
+Namely OpenJDK. There are other forks too, maybe.  
+But you'll end up using OpenJDK, trust me on this.  
 
-JVM executes _java bytecode_,  
-**subset to JRE**;  
-JRE is built-in language support,  
-here are libraries and stuff,  
-**subset to JDK**;  
-JDK is all what a dev needs,  
-javac _the compiler_,  
-java _the executor_,  
-all tooling;
+JDK is consists of JRE (Java Runtime Environment) which contains JVM (Java Virtual Machine) on which java "runs".  
 
-
-2. JDK (java dev kit)  
-
-well there are two of these now,  
-OpenJDK, OracleJDK;  
-once they made no difference,  
-now they do,  
-none knows why, (~corporate~)  
-but some say licensing,  
-OpenJDK is truly open,  
-but trust me,  
-**you'll end up using Oracle JDK !**  
-
-3. more to it, there are **editions**
-
-    - Java SE (yup, simple)
-    - Jakarta EE (oh! you work at corporate!)
-    - Java ME (android devs caution here!)
-
-4. later you'll explore frameworks
-
-  
-
-## Trivia to bore , you and me ...
-
-- Java is a **programming language** and a **platform** . 
-
-- Compiles to **java bytecode**, runs on **java virtual machine** .
-    - source ---compile-> bytecode ---JVM-> execution 
-
-- _"FORCED OOP"_, describes java in a phrase .
-
-> "first day i met java, there was classes, there was `main` but in a class, the class was itself in a class which extended another class."
-
-- CamelCase is the norm, and it sucks
-
-- and dot notation...
-
-> "you.want.it.darker?"  
-"we.kill.the.flame"  
--Leonard Cohen (who codes in java)
- 
-- you'll soon need build tools like maven, ~~ant~~ or gradle.
-    - npm of java world [=> (Objections!)](https://stackoverflow.com/questions/38388824/is-maven-similar-to-npm)
+For beginning, you need two cli tools bundles with jdk;
+`$ javac` : compiles source code ".java" files to ".class" files  
+`$ java` : executes the program on JVM  
 
 
 
+    #Where should I download Java?
 
+    With the introduction of the new release cadence, many have asked where they should download Java, and if it is still free. To be clear, YES — Java is still free.
 
+    If you would like to download Java for free, you can get OpenJDK builds from the following vendors, among others:
 
-## The Roadmap
+<ul>
+<li><a href="http://jdk.java.net">Oracle</a></li>
+<li><a href="https://developers.redhat.com/products/openjdk/download/">RedHat</a></li>
+<li><a href="https://www.azul.com/downloads/zulu/">Azul</a></li>
+<li><a href="https://adoptopenjdk.net">AdoptOpenJDK</a></li>
+<li><a href="https://aws.amazon.com/corretto/">Amazon</a></li>
+<li><a href="https://sap.github.io/SapMachine/">SAP</a><br></li>
+<li><a href="https://bell-sw.com/">Liberica JDK</a><br></li>
+</ul>
 
-> linear roadmaps are the best roadmaps, and only these work ! - UNESCO
-
-1. Part 1
-
-    - .java file
-    - Let There be a class !
-        - curly braces syntax
-    - a `main` to run (`static`, but why?)
-    - Hello World !
-    - `$ java` & `$ javac` 
-
-2. Part 2
-
-    - Types (of course!)
-    - Access Specifiers
-        - why `main` is static?
-    - `static` block
-        - before java 1.6
-    - methods (`!functions`)
-
-*OO! Its OOP*
-
-3. Part 3
-
-    - Constructor (yep you know)
-    - No Destructor (now you will know)
-        - why? (spoiler; gc!)
-        - finalise() (caution)
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# What, Java?
+> source : reddit (r/learnjava)
 
 ---
 
-## Better Resources Than This One (= ФェФ=)
 
-`Banish !`
-
-
-
-### Keep It Under Pillow
-
----
 
 ## ಥ_ಥ TODO
 
