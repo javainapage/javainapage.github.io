@@ -119,7 +119,45 @@ OUTPUT :
     *
     *
     */
+
+    /* Some Conventional meta information (DOCUMENTAION)
+    *
+    *
+    * @author         Name of author.
+    * @version        Version of the program.
+    * @since          When this part of the program was first added.
+    * @param          Mini Desc of parameters to a method.
+    * @return         Type of return.
+    * @deprecated  
+    * @see         
+    *
+    *
+    */
 ```
+
+## Types
+
+```java
+    byte b = -20;
+    short s = 10000;
+    int a = 100000;               // Integer (whole number)
+    long ab = 100000L;
+    float myFloatNum = 5.99f;    // Floating point number
+    double d1 = 12.3;
+    char myLetter = 'D';         // Character
+    boolean myBool = true;       // Boolean
+    String myText = "Hello";     // String
+```
+
+## Access Modifiers
+
+```java
+    int defaultVar;
+    public int publicVar; // Public: Can be accessed from anywhere
+    private int privateVar;  // Private: Only accessible from within the class
+    protected int protectedVar; // Protected: Accessible from the class and subclasses
+```
+
 ---
 
 ## ಥ_ಥ TODO

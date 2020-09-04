@@ -9,27 +9,11 @@ class ClassName{
 }
 ```
 
-## Access Specifiers
-
-
-
 ## Methods
 
 ## Fields
 
-### Types
 
-```java
-    byte b = -20;
-    short s = 10000;
-    int a = 100000;               // Integer (whole number)
-    long ab = 100000L;
-    float myFloatNum = 5.99f;    // Floating point number
-    double d1 = 12.3;
-    char myLetter = 'D';         // Character
-    boolean myBool = true;       // Boolean
-    String myText = "Hello";     // String
-```
 
 
 
