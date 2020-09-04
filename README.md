@@ -135,6 +135,23 @@ OUTPUT :
     */
 ```
 
+## Naming Conventions
+
+CamelCase is cucks;  
+to make it worse,  
+welcome dot notation for packges;  
+
+```java
+    // dot.notation
+    import naming.convention.for.packages;
+    // CamelCase
+    class NamingConventionForClass{}
+    int namingConventionForVariable;
+    void namingConventionForMethod(){}  
+```
+
+
+
 ## Types
 
 ```java
