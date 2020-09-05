@@ -11,8 +11,18 @@
 
 # ƸӜƷ
 
+    @author : lakshay kiran
+    @published : 
+    @lastupdated :
+    @
+
+
 Java is a **programming language** and a **platform** .
 ---
+
+---
+
+# TOC
 
 ---  
 
