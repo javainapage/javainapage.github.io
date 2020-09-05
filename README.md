@@ -70,7 +70,7 @@ In class, add a function(method) named `main`
 
 ```java
 	class HelloWorld{
-		public static void main(Strings args[]) {
+		public static void main(Strings[] args) {
 			/*
 			Special Method
 			Recognised by JVM
@@ -84,7 +84,7 @@ In class, add a function(method) named `main`
 - `public` keyword
 - `static` keyword
 - `void` keyword
-- `String args[]` inside parantheses
+- `String[] args` inside parantheses
 
 Inside `main` method  
 
@@ -164,7 +164,7 @@ Then we "run" it
     void namingConventionForMethod(){}  
 ```
 
-rule of thumbs   
+rule of thumb   
 - match top class with file name 
 
 ## Types
@@ -181,6 +181,72 @@ rule of thumbs
     String myText = "Hello";     // String
 ```
 
+## Operators
+
+arithmetic operators are arithmetic operators.
+
+```java
+    // Arithmetic Operators
+    System.out.println("5+4 = " + (i1 + i2)); 
+    System.out.println("9-1 = " + (i2 - i1)); 
+    System.out.println("2*3 = " + (i2 * i1)); 
+    System.out.println("3/7 = " + (i1 / i2)); 
+    System.out.println("1/2.0 = " + (i1 / (double)i2));
+```
+
+```java
+    // Modulo operator
+    System.out.println("11%3 = "+(11 % 3)); // => 2
+
+    // Comparison operators
+    System.out.println("9 == 8? " + (9 == 8)); 
+    System.out.println("9 != 8? " + (9 != 8)); 
+    System.out.println("9 > 8? " + (9 > 8)); 
+    System.out.println("9 < 8? " + (9 < 8)); 
+    System.out.println("8 <= 8? " + (8 <= 8)); 
+    System.out.println("8 >= 8? " + (8 >= 8));  
+```
+
+boolean and bitwise to confuse you and me
+
+```java
+    /* Boolean Operators
+    &	Logical AND
+    |	Logical OR
+    ^	Logical XOR (exclusive OR)
+    ||	Short-circuit OR
+    &&	Short-circuit AND
+    !	Logical unary NOT
+    &=	AND assignment
+    |=	OR assignment
+    ^=	XOR assignment
+    ==	Equal to
+    !=	Not equal to
+    ? :	Ternary if-then-else
+    */
+
+    /* Bitwise Operators
+    ~      Unary bitwise complement
+    <<     Signed left shift
+    >>     Signed/Arithmetic right shift
+    >>>    Unsigned/Logical right shift
+    &      Bitwise AND
+    ^      Bitwise exclusive OR
+    |      Bitwise inclusive OR
+    */
+```
+
+at last ...
+
+```java
+    // Increment operators
+    int i = 0;
+    System.out.println(i++); // i = 1, prints 0 (post-increment)
+    System.out.println(++i); // i = 2, prints 2 (pre-increment)
+    System.out.println(i--); // i = 1, prints 2 (post-decrement)
+    System.out.println(--i); // i = 0, prints 0 (pre-decrement)
+```
+
 ## Access Modifiers
 
 ```java
@@ -190,6 +256,37 @@ rule of thumbs
     protected int protectedVar; // Protected: Accessible from the class and subclasses
 ```
 
+## User Input
+
+```java
+    import java.util.Scanner;
+
+    class UserInput{
+        public static void main(Strings[] args) {
+            
+            // Scanner Object
+            Scanner scanner = new Scanner(System.in);
+
+            // read string input
+            String name = scanner.next();
+
+            // read byte input
+            byte numByte = scanner.nextByte();
+
+            // read int input
+            int numInt = scanner.nextInt();
+
+            // read long input
+            float numFloat = scanner.nextFloat();
+
+            // read double input
+            double numDouble = scanner.nextDouble();
+
+            // read boolean input
+            boolean bool = scanner.nextBoolean();
+        }
+    }
+```
 
 ## ಥ_ಥ TODO
 
