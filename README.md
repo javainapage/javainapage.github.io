@@ -313,7 +313,8 @@ at last ...
 
 - Download Maven ([Apache](https://maven.apache.org/download.cgi))
 
-    > src : https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+    > src : https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html  
+
     # Maven Phases
 
     Although hardly a comprehensive list, these are the most common default lifecycle phases executed.  
@@ -342,6 +343,30 @@ at last ...
 ```
 
 ## ಥ_ಥ TODO
+
+- [x] comments
+- [x] operators
+- [x] types
+- [ ] type wrappers
+- [x] access modifiers
+- [ ] statements
+- [ ] packages
+    - [ ] .jar
+
+- [ ] interfaces
+- [ ] abstract classes
+- [ ] generic classes
+- [ ] annotations
+
+
+- [ ] exception handling
+- [ ] context/resource management
+
+- [ ] file I/O
+
+- [ ] threading
+
+- [ ] collections
 
 
 ---
