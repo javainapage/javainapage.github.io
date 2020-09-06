@@ -313,6 +313,22 @@ at last ...
 
 - Download Maven ([Apache](https://maven.apache.org/download.cgi))
 
+- Add to environment variables
+
+unix user  
+
+```bash
+    PATH=path/to/bin:$PATH
+
+    export PATH
+```
+
+windows user  
+
+```bash
+    setx -m PATH "%PATH;path/to/mvn/bin";
+```
+
     > src : https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html  
 
     # Maven Phases
