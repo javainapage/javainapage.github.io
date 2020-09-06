@@ -75,7 +75,9 @@ Start with a bare class, let it be `HelloWorld`
 	}
 ```
 
-In class, add a function(method) named `main`
+In class, add a function(method) named `main`  
+
+**Class containing `main` method is "main" class.**  
 
 ```java
 	class HelloWorld{
@@ -256,6 +258,47 @@ at last ...
     System.out.println(--i); // i = 0, prints 0 (pre-decrement)
 ```
 
+## Statements
+
+```java
+    if (condition) {
+        // code
+    }
+    
+    if (condition) {
+        // code
+    } else {
+        // code
+    }
+
+    switch (key) {
+        case value:
+            //code 
+            break;
+    
+        default:
+            //code
+            break;
+    }
+
+    while (condition) {
+        //code
+    }
+
+    do {
+        //code
+    } while (condition);
+
+    for(initialization; condition; iteration) {
+        //code
+    }
+
+    for (String string : args) {
+        
+    }
+```
+
+
 ## Access Modifiers
 
 ```java
@@ -264,7 +307,22 @@ at last ...
     private int privateVar;  // Private: Only accessible from within the class
     protected int protectedVar; // Protected: Accessible from the class and subclasses
 ```
+
+
 ## CLI arguments
+
+`args` is an **array** of `String`s,  
+which contains user supplied arguments from the terminal,  
+all ****values are strings** by default, even if numbers are supplied!  
+
+
+Ensure args are provided  
+
+```java
+    if (args != null) {
+        
+    }
+```
 
 ```java
     public class Echo {
@@ -276,6 +334,13 @@ at last ...
             }
         }
     }
+```
+
+in case of numerical input  
+
+```java
+    // convert to integer
+    firstArg = Integer.parseInt(args[0])
 ```
 ## User Input
 
