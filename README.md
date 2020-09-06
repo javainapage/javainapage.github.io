@@ -270,7 +270,8 @@ at last ...
     } else {
         // code
     }
-
+```
+```java
     switch (key) {
         case value:
             //code 
@@ -280,7 +281,8 @@ at last ...
             //code
             break;
     }
-
+```
+```java
     while (condition) {
         //code
     }
@@ -288,7 +290,9 @@ at last ...
     do {
         //code
     } while (condition);
+```
 
+```java
     for(initialization; condition; iteration) {
         //code
     }
@@ -313,7 +317,7 @@ at last ...
 
 `args` is an **array** of `String`s,  
 which contains user supplied arguments from the terminal,  
-all ****values are strings** by default, even if numbers are supplied!  
+all **values are strings** by default, even if numbers are supplied!  
 
 
 Ensure args are provided  
