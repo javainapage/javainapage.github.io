@@ -33,6 +33,8 @@ Java is a **programming language** and a **platform** .
     - Download OpenJDK ([Oracle](https://www.java.com/en/download/))
     - Set Environmental Variables
 
+unix user
+
 ```bash
     JAVA_HOME=jdk-install-dir
 
@@ -41,6 +43,13 @@ Java is a **programming language** and a **platform** .
     PATH=$JAVA_HOME/bin:$PATH
 
     export PATH
+```
+
+windows user
+
+```bash
+    setx -m JAVA_HOME "C:\Program Files\Java\jdk1.8.0" # jdk<version>
+    setx -m PATH "%PATH%;%JAVA_HOME%\bin";
 ```
 
 - Create a file with '.java' extension. (say 'hello.java')
@@ -255,7 +264,19 @@ at last ...
     private int privateVar;  // Private: Only accessible from within the class
     protected int protectedVar; // Protected: Accessible from the class and subclasses
 ```
+## CLI arguments
 
+```java
+    public class Echo {
+        public static void main (String[] args) {
+            if (args != null) {
+                for (String s: args) {
+                    System.out.println(s);
+                }
+            }
+        }
+    }
+```
 ## User Input
 
 ```java
@@ -286,6 +307,38 @@ at last ...
             boolean bool = scanner.nextBoolean();
         }
     }
+```
+
+## Build Tool : Maven
+
+- Download Maven ([Apache](https://maven.apache.org/download.cgi))
+
+    > src : https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+    # Maven Phases
+
+    Although hardly a comprehensive list, these are the most common default lifecycle phases executed.  
+
+
+`validate`: validate the project is correct and all necessary information is available  
+`compile`: compile the source code of the project  
+`test`: test the compiled source code using a suitable unit testing framework. These tests should not require the code be packaged or deployed  
+`package`: take the compiled code and package it in its distributable format, such as a JAR.  
+`integration-test`: process and deploy the package if necessary into an environment where integration tests can be run  
+`verify`: run any checks to verify the package is valid and meets quality criteria  
+`install`: install the package into the local repository, for use as a dependency in other projects locally  
+`deploy`: done in an integration or release environment, copies the final package to the remote repository for sharing with other developers and projects.  
+
+    There are two other Maven lifecycles of note beyond the default list above. They are :
+
+`clean`: cleans up artifacts created by prior builds  
+`site`: generates site documentation for this project
+
+```bash
+    mvn package
+```
+
+```bash
+    mvn site
 ```
 
 ## ಥ_ಥ TODO
