@@ -1,0 +1,2096 @@
+{
+    "version": "0.4",
+    "title": "CPW Instagram Website",
+    "type": "page",
+    "content": [
+      {
+        "id": "14bca537",
+        "settings": {
+          "height": "min-height",
+          "custom_height": {
+            "unit": "px",
+            "size": 750,
+            "sizes": [
+              
+            ]
+          },
+          "background_background": "classic",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Hero-Image-3.jpg",
+            "id": 106
+          },
+          "background_position": "center center",
+          "background_attachment": "fixed",
+          "background_size": "cover",
+          "background_overlay_background": "gradient",
+          "background_overlay_color": "#05050c",
+          "background_overlay_color_b": "rgba(242,41,91,0)",
+          "background_overlay_color_b_stop": {
+            "unit": "%",
+            "size": 84,
+            "sizes": [
+              
+            ]
+          },
+          "background_overlay_gradient_angle": {
+            "unit": "deg",
+            "size": 90,
+            "sizes": [
+              
+            ]
+          },
+          "background_slideshow_gallery": [
+            {
+              "id": 23,
+              "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/IMG_1157.jpg"
+            },
+            {
+              "id": 28,
+              "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/IMG_4516.jpg"
+            }
+          ],
+          "background_slideshow_slide_transition": "slide_left",
+          "background_slideshow_ken_burns": "yes",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.81,
+            "sizes": [
+              
+            ]
+          },
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 640,
+            "sizes": [
+              
+            ]
+          },
+          "structure": "20",
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "40",
+            "bottom": "0",
+            "left": "40",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "12",
+            "right": "12",
+            "bottom": "12",
+            "left": "12",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "7489b40e",
+            "settings": {
+              "_column_size": 50,
+              "_inline_size": null
+            },
+            "elements": [
+              {
+                "id": "4197e3ba",
+                "settings": {
+                  "title": "Welcome!<br>Wanna collaborate?",
+                  "title_color": "#ffffff",
+                  "text_shadow_text_shadow_type": "yes",
+                  "text_shadow_text_shadow": {
+                    "horizontal": 0,
+                    "vertical": 0,
+                    "blur": 5,
+                    "color": "rgba(0,0,0,0.2)"
+                  },
+                  "typography_typography": "custom",
+                  "typography_font_size": {
+                    "unit": "px",
+                    "size": 42,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "typography_line_height": {
+                    "unit": "em",
+                    "size": 1.1,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 32,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "typography_font_size_tablet": {
+                    "unit": "px",
+                    "size": 34,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "_animation": "fadeIn",
+                  "animation_duration": "fast"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "heading",
+                "elType": "widget"
+              },
+              {
+                "id": "1bf2a395",
+                "settings": {
+                  "text": "Advertise With Me",
+                  "size": "xs",
+                  "background_color": "#0c0505",
+                  "border_border": "solid",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "button_box_shadow_box_shadow_type": "yes",
+                  "button_box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 3,
+                    "blur": 4,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.5)"
+                  },
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": true
+                  },
+                  "link": {
+                    "url": "#pricing",
+                    "is_external": "",
+                    "nofollow": ""
+                  },
+                  "_animation": "fadeIn"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "button",
+                "elType": "widget"
+              },
+              {
+                "id": "3cfd86c1",
+                "settings": {
+                  "text": "Contact Me",
+                  "size": "xs",
+                  "background_color": "rgba(12,5,5,0)",
+                  "border_border": "solid",
+                  "border_radius": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "50",
+                    "bottom": "50",
+                    "left": "50",
+                    "isLinked": true
+                  },
+                  "button_box_shadow_box_shadow_type": "yes",
+                  "button_box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 3,
+                    "blur": 4,
+                    "spread": 0,
+                    "color": "rgba(0,0,0,0.5)"
+                  },
+                  "border_width": {
+                    "unit": "px",
+                    "top": "2",
+                    "right": "2",
+                    "bottom": "2",
+                    "left": "2",
+                    "isLinked": true
+                  },
+                  "link": {
+                    "url": "#contact",
+                    "is_external": "",
+                    "nofollow": ""
+                  },
+                  "_margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_animation": "fadeIn",
+                  "animation_duration": "slow"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "button",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          },
+          {
+            "id": "110a93c1",
+            "settings": {
+              "_column_size": 50,
+              "_inline_size": null
+            },
+            "elements": [
+              
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "646ae2c7",
+        "settings": {
+          "layout": "full_width",
+          "gap": "no",
+          "height": "min-height",
+          "custom_height": {
+            "unit": "px",
+            "size": 670,
+            "sizes": [
+              
+            ]
+          },
+          "structure": "40",
+          "_element_id": "social",
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 0,
+            "sizes": [
+              
+            ]
+          },
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 0,
+            "sizes": [
+              
+            ]
+          }
+        },
+        "elements": [
+          {
+            "id": "3fae6784",
+            "settings": {
+              "_column_size": 25,
+              "background_background": "classic",
+              "background_image": {
+                "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Pricing-Background.jpg",
+                "id": 112
+              },
+              "background_position": "center center",
+              "background_attachment": "scroll",
+              "background_size": "cover",
+              "background_overlay_color": "#dd2591",
+              "background_overlay_color_b": "rgba(242,41,91,0)",
+              "background_overlay_color_b_stop": {
+                "unit": "%",
+                "size": 69,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_gradient_angle": {
+                "unit": "deg",
+                "size": 360,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_opacity": {
+                "unit": "px",
+                "size": 0.25,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_hover_background": "classic",
+              "background_overlay_hover_color": "#ff7575",
+              "border_hover_color": "rgba(0,0,0,0)"
+            },
+            "elements": [
+              {
+                "id": "64bb8f10",
+                "settings": {
+                  "selected_icon": {
+                    "value": "fab fa-youtube",
+                    "library": "fa-brands"
+                  },
+                  "primary_color": "#ffffff",
+                  "_padding": {
+                    "unit": "px",
+                    "top": "320",
+                    "right": "0",
+                    "bottom": "320",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "hover_animation": "grow",
+                  "link": {
+                    "url": "https:\/\/youtube.com\/createaprowebsite",
+                    "is_external": "on",
+                    "nofollow": ""
+                  },
+                  "_padding_mobile": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "65",
+                    "bottom": "65",
+                    "left": "65",
+                    "isLinked": true
+                  },
+                  "_padding_tablet": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "200",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_animation": "fadeInLeft"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "icon",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          },
+          {
+            "id": "1dee60fa",
+            "settings": {
+              "_column_size": 25,
+              "_inline_size": null,
+              "background_background": "classic",
+              "background_image": {
+                "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Spotify-Image.jpg",
+                "id": 114
+              },
+              "background_position": "center center",
+              "background_attachment": "scroll",
+              "background_size": "cover",
+              "background_overlay_color": "#1db954",
+              "background_overlay_color_b": "rgba(219,110,37,0)",
+              "background_overlay_color_b_stop": {
+                "unit": "%",
+                "size": 69,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_gradient_angle": {
+                "unit": "deg",
+                "size": 360,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_opacity": {
+                "unit": "px",
+                "size": 0.25,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_hover_background": "classic",
+              "background_overlay_hover_color": "#57ba7a",
+              "background_position_mobile": "initial",
+              "background_ypos_mobile": {
+                "unit": "px",
+                "size": -229,
+                "sizes": [
+                  
+                ]
+              }
+            },
+            "elements": [
+              {
+                "id": "79a1a695",
+                "settings": {
+                  "selected_icon": {
+                    "value": "fab fa-spotify",
+                    "library": "fa-brands"
+                  },
+                  "primary_color": "#ffffff",
+                  "_padding": {
+                    "unit": "px",
+                    "top": "320",
+                    "right": "0",
+                    "bottom": "320",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "hover_animation": "grow",
+                  "link": {
+                    "url": "https:\/\/spotify.com",
+                    "is_external": "on",
+                    "nofollow": ""
+                  },
+                  "_padding_mobile": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "65",
+                    "bottom": "65",
+                    "left": "65",
+                    "isLinked": true
+                  },
+                  "_padding_tablet": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "200",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_animation": "fadeInLeft"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "icon",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          },
+          {
+            "id": "21d3eec6",
+            "settings": {
+              "_column_size": 25,
+              "_inline_size": null,
+              "background_background": "classic",
+              "background_color": "#ff5656",
+              "background_image": {
+                "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Instagram-Image.jpg",
+                "id": 110
+              },
+              "background_position": "center center",
+              "background_xpos": {
+                "unit": "px",
+                "size": 202,
+                "sizes": [
+                  
+                ]
+              },
+              "background_attachment": "scroll",
+              "background_size": "cover",
+              "background_overlay_color": "#ff0000",
+              "background_overlay_color_b": "rgba(242,0,76,0)",
+              "background_overlay_color_b_stop": {
+                "unit": "%",
+                "size": 69,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_gradient_angle": {
+                "unit": "deg",
+                "size": 360,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_opacity": {
+                "unit": "px",
+                "size": 0.26,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_hover_background": "classic",
+              "background_overlay_hover_color": "#f473be",
+              "background_position_mobile": "initial",
+              "background_ypos_mobile": {
+                "unit": "px",
+                "size": -114,
+                "sizes": [
+                  
+                ]
+              }
+            },
+            "elements": [
+              {
+                "id": "7265d6b0",
+                "settings": {
+                  "selected_icon": {
+                    "value": "fab fa-instagram",
+                    "library": "fa-brands"
+                  },
+                  "primary_color": "#ffffff",
+                  "_padding": {
+                    "unit": "px",
+                    "top": "320",
+                    "right": "0",
+                    "bottom": "320",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "hover_animation": "grow",
+                  "link": {
+                    "url": "https:\/\/instagram.com\/dalemcmanus",
+                    "is_external": "on",
+                    "nofollow": ""
+                  },
+                  "_padding_mobile": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "65",
+                    "bottom": "65",
+                    "left": "65",
+                    "isLinked": true
+                  },
+                  "_padding_tablet": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "200",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_animation": "fadeInRight"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "icon",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          },
+          {
+            "id": "22f8a15",
+            "settings": {
+              "_column_size": 25,
+              "_inline_size": null,
+              "background_background": "classic",
+              "background_image": {
+                "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Snapchat-Image.jpg",
+                "id": 113
+              },
+              "background_position": "center center",
+              "background_attachment": "scroll",
+              "background_size": "cover",
+              "background_overlay_color": "#fffa00",
+              "background_overlay_color_b": "rgba(242,41,91,0)",
+              "background_overlay_color_b_stop": {
+                "unit": "%",
+                "size": 70,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_gradient_angle": {
+                "unit": "deg",
+                "size": 360,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_opacity": {
+                "unit": "px",
+                "size": 0.25,
+                "sizes": [
+                  
+                ]
+              },
+              "background_overlay_hover_background": "classic",
+              "background_overlay_hover_color": "#fff575",
+              "background_position_mobile": "center center",
+              "background_ypos_mobile": {
+                "unit": "px",
+                "size": -167,
+                "sizes": [
+                  
+                ]
+              }
+            },
+            "elements": [
+              {
+                "id": "41792271",
+                "settings": {
+                  "selected_icon": {
+                    "value": "fab fa-snapchat",
+                    "library": "fa-brands"
+                  },
+                  "primary_color": "#ffffff",
+                  "_padding": {
+                    "unit": "px",
+                    "top": "320",
+                    "right": "0",
+                    "bottom": "320",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "hover_animation": "grow",
+                  "link": {
+                    "url": "https:\/\/snapchat.com",
+                    "is_external": "on",
+                    "nofollow": ""
+                  },
+                  "_padding_mobile": {
+                    "unit": "px",
+                    "top": "65",
+                    "right": "65",
+                    "bottom": "65",
+                    "left": "65",
+                    "isLinked": true
+                  },
+                  "_padding_tablet": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "200",
+                    "left": "0",
+                    "isLinked": false
+                  },
+                  "_animation": "fadeInRight"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "icon",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "55e5ea6e",
+        "settings": {
+          "height": "min-height",
+          "background_background": "classic",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Spotify-Image.jpg",
+            "id": 114
+          },
+          "background_position": "center center",
+          "background_attachment": "fixed",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#001621",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.77,
+            "sizes": [
+              
+            ]
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "150",
+            "bottom": "0",
+            "left": "150",
+            "isLinked": false
+          },
+          "_element_id": "about",
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 523,
+            "sizes": [
+              
+            ]
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "22",
+            "right": "22",
+            "bottom": "22",
+            "left": "22",
+            "isLinked": true
+          },
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 443,
+            "sizes": [
+              
+            ]
+          },
+          "background_ypos_tablet": {
+            "unit": "px",
+            "size": -396,
+            "sizes": [
+              
+            ]
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "30",
+            "right": "30",
+            "bottom": "30",
+            "left": "30",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "2557a0f0",
+            "settings": {
+              "_column_size": 100,
+              "_inline_size": null,
+              "background_background": "classic",
+              "border_radius": {
+                "unit": "px",
+                "top": "35",
+                "right": "35",
+                "bottom": "35",
+                "left": "35",
+                "isLinked": true
+              },
+              "padding": {
+                "unit": "px",
+                "top": "25",
+                "right": "25",
+                "bottom": "25",
+                "left": "25",
+                "isLinked": true
+              },
+              "padding_mobile": {
+                "unit": "px",
+                "top": "0",
+                "right": "0",
+                "bottom": "0",
+                "left": "0",
+                "isLinked": true
+              }
+            },
+            "elements": [
+              {
+                "id": "10eebda3",
+                "settings": {
+                  "image": {
+                    "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/IMG_7161.jpg",
+                    "id": 30
+                  },
+                  "thumbnail_size": "custom",
+                  "thumbnail_custom_dimension": {
+                    "width": "500",
+                    "height": "500"
+                  },
+                  "title_text": "About Me:",
+                  "description_text": "Hey! My name's Dale. Welcome to my highlight reel. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br><br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                  "position": "left",
+                  "image_space": {
+                    "unit": "px",
+                    "size": 50,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "title_color": "#ffffff",
+                  "description_color": "#c4c4c4",
+                  "image_size": {
+                    "unit": "%",
+                    "size": 38,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "image_space_mobile": {
+                    "unit": "px",
+                    "size": 32,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "image_size_tablet": {
+                    "unit": "%",
+                    "size": 85,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "title_bottom_space": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "title_bottom_space_tablet": {
+                    "unit": "px",
+                    "size": 4,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "title_bottom_space_mobile": {
+                    "unit": "px",
+                    "size": 15,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "_animation": "fadeInUp"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "image-box",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "2e6f5238",
+        "settings": {
+          "background_background": "classic",
+          "background_color": "#ffffff",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Snapchat-Image.jpg",
+            "id": 113
+          },
+          "background_position": "center center",
+          "background_attachment": "fixed",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#051923",
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.8,
+            "sizes": [
+              
+            ]
+          },
+          "height": "min-height",
+          "custom_height": {
+            "unit": "px",
+            "size": 800,
+            "sizes": [
+              
+            ]
+          },
+          "_element_id": "instagram",
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 372,
+            "sizes": [
+              
+            ]
+          },
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 633,
+            "sizes": [
+              
+            ]
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "25",
+            "right": "25",
+            "bottom": "25",
+            "left": "25",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "12",
+            "right": "12",
+            "bottom": "12",
+            "left": "12",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "5e0fbf72",
+            "settings": {
+              "_column_size": 100
+            },
+            "elements": [
+              {
+                "id": "792838da",
+                "settings": {
+                  "shortcode": "[instagram-feed]",
+                  "_animation": "fadeIn",
+                  "animation_duration": "fast"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "shortcode",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "55b942c9",
+        "settings": {
+          "height": "min-height",
+          "custom_height": {
+            "unit": "px",
+            "size": 819,
+            "sizes": [
+              
+            ]
+          },
+          "background_background": "classic",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Pricing-Background.jpg",
+            "id": 112
+          },
+          "background_position": "center center",
+          "background_attachment": "scroll",
+          "background_size": "cover",
+          "background_overlay_background": "gradient",
+          "background_overlay_color": "#1a6882",
+          "background_overlay_color_b": "#c45d21",
+          "background_overlay_gradient_angle": {
+            "unit": "deg",
+            "size": 260,
+            "sizes": [
+              
+            ]
+          },
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.65,
+            "sizes": [
+              
+            ]
+          },
+          "_element_id": "pricing",
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 1258,
+            "sizes": [
+              
+            ]
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "35",
+            "right": "0",
+            "bottom": "25",
+            "left": "0",
+            "isLinked": false
+          }
+        },
+        "elements": [
+          {
+            "id": "3ca3f3b2",
+            "settings": {
+              "_column_size": 100,
+              "_inline_size": null
+            },
+            "elements": [
+              {
+                "id": "1e3f633e",
+                "settings": {
+                  "title": "Want to advertise on my Instagram?",
+                  "align": "center",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "typography_line_height_mobile": {
+                    "unit": "em",
+                    "size": 1.4,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "_animation": "fadeIn"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "heading",
+                "elType": "widget"
+              },
+              {
+                "id": "6aeda1e",
+                "settings": {
+                  "structure": "40",
+                  "animation": "fadeInUp",
+                  "animation_duration": "fast"
+                },
+                "elements": [
+                  {
+                    "id": "3f1adbe2",
+                    "settings": {
+                      "_column_size": 25,
+                      "_inline_size": null
+                    },
+                    "elements": [
+                      {
+                        "id": "6b83555b",
+                        "settings": {
+                          "eael_pricing_table_title": "Story Post",
+                          "eael_pricing_table_sub_title": "",
+                          "eael_pricing_table_style_2_icon_new": {
+                            "value": "fas fa-mobile-alt",
+                            "library": "fa-solid"
+                          },
+                          "eael_pricing_table_price": "500",
+                          "eael_pricing_table_onsale": "",
+                          "eael_pricing_table_onsale_price": "89",
+                          "eael_pricing_table_price_cur": "$",
+                          "eael_pricing_table_price_period": "per story",
+                          "eael_pricing_table_period_separator": "\/",
+                          "eael_pricing_table_items": [
+                            {
+                              "eael_pricing_table_item": "Business\/Product feature in 1 story",
+                              "_id": "12bfbd5",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "\"Swipe Up\" button with your custom link",
+                              "_id": "fb2d1e9",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Demonstrating product and\/or brief description of business",
+                              "_id": "9074587",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Your Instagram tagged",
+                              "_id": "a1e3ddc",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "3 hashtags",
+                              "_id": "6ccf8d1",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Live for 24 Hours (You choose posting time)",
+                              "_id": "b2716c4",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            }
+                          ],
+                          "eael_pricing_table_btn": "Inquire",
+                          "eael_pricing_table_featured": "",
+                          "eael_pricing_table_featured_styles": "ribbon-2",
+                          "eael_pricing_table_featured_tag_text": "Best Deal",
+                          "eael_pricing_table_bg_color": "rgba(255,255,255,0.97)",
+                          "eael_pricing_table_border_radius": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "eael_pricing_table_content_alignment": "left",
+                          "eael_pricing_table_style_2_title_bg_color": "#c7dce5",
+                          "eael_pricing_table_pricing_curr_color": "#00c853",
+                          "eael_pricing_table_list_disable_item_color": "#347500",
+                          "eael_pricing_table_icon_bg_color": "#ef9b00",
+                          "eael_pricing_table_icon_color": "#ffffff",
+                          "eael_pricing_table_btn_normal_bg_color": "#000c02",
+                          "eael_pricing_table_btn_link": {
+                            "url": "#contact",
+                            "is_external": "",
+                            "nofollow": ""
+                          },
+                          "eael_pricing_table_btn_hover_bg_color": "#04a1ef",
+                          "eael_pricing_table_price_tag_onsale_typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 2.6,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "eael_pricing_table_price_preiod_typography_typography": "custom",
+                          "eael_pricing_table_price_preiod_typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 4,
+                            "sizes": [
+                              
+                            ]
+                          }
+                        },
+                        "elements": [
+                          
+                        ],
+                        "isInner": false,
+                        "widgetType": "eael-pricing-table",
+                        "elType": "widget"
+                      }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                  },
+                  {
+                    "id": "46a15aee",
+                    "settings": {
+                      "_column_size": 25,
+                      "_inline_size": null
+                    },
+                    "elements": [
+                      {
+                        "id": "3ab4bb46",
+                        "settings": {
+                          "eael_pricing_table_title": "Single Picture Post",
+                          "eael_pricing_table_sub_title": "",
+                          "eael_pricing_table_style_2_icon_new": {
+                            "value": "fas fa-mobile-alt",
+                            "library": "fa-solid"
+                          },
+                          "eael_pricing_table_price": "1000",
+                          "eael_pricing_table_onsale": "",
+                          "eael_pricing_table_onsale_price": "89",
+                          "eael_pricing_table_price_cur": "$",
+                          "eael_pricing_table_price_period": "per post",
+                          "eael_pricing_table_period_separator": "\/",
+                          "eael_pricing_table_items": [
+                            {
+                              "eael_pricing_table_item": "1 picture post",
+                              "_id": "12bfbd5",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Custom photo taken by Dale",
+                              "_id": "099c354",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Custom caption (Up to 100 words & your instagram tagged)",
+                              "_id": "a1e3ddc",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "5 hashtags",
+                              "_id": "6ccf8d1",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Picture tagged with your Instagram handle",
+                              "_id": "b8a5981",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Edit caption up to 24 hours",
+                              "_id": "fabbe9c",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            }
+                          ],
+                          "eael_pricing_table_btn": "Inquire",
+                          "eael_pricing_table_featured": "",
+                          "eael_pricing_table_featured_styles": "ribbon-2",
+                          "eael_pricing_table_featured_tag_text": "Best Deal",
+                          "eael_pricing_table_bg_color": "rgba(255,255,255,0.97)",
+                          "eael_pricing_table_border_radius": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "eael_pricing_table_content_alignment": "left",
+                          "eael_pricing_table_style_2_title_bg_color": "#c7dce5",
+                          "eael_pricing_table_pricing_curr_color": "#00c853",
+                          "eael_pricing_table_list_disable_item_color": "#347500",
+                          "eael_pricing_table_icon_bg_color": "#ef9b00",
+                          "eael_pricing_table_icon_color": "#ffffff",
+                          "eael_pricing_table_btn_normal_bg_color": "#0c0003",
+                          "eael_pricing_table_btn_hover_bg_color": "#04a1ef",
+                          "eael_pricing_table_btn_link": {
+                            "url": "#contact",
+                            "is_external": "",
+                            "nofollow": ""
+                          },
+                          "eael_pricing_table_price_preiod_typography_typography": "custom",
+                          "eael_pricing_table_price_preiod_typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 4,
+                            "sizes": [
+                              
+                            ]
+                          }
+                        },
+                        "elements": [
+                          
+                        ],
+                        "isInner": false,
+                        "widgetType": "eael-pricing-table",
+                        "elType": "widget"
+                      }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                  },
+                  {
+                    "id": "56015cba",
+                    "settings": {
+                      "_column_size": 25,
+                      "_inline_size": null
+                    },
+                    "elements": [
+                      {
+                        "id": "7285178c",
+                        "settings": {
+                          "eael_pricing_table_title": "Multi-Picture Post",
+                          "eael_pricing_table_sub_title": "",
+                          "eael_pricing_table_style_2_icon_new": {
+                            "value": "fas fa-mobile-alt",
+                            "library": "fa-solid"
+                          },
+                          "eael_pricing_table_price": "2000",
+                          "eael_pricing_table_onsale": "",
+                          "eael_pricing_table_onsale_price": "89",
+                          "eael_pricing_table_price_cur": "$",
+                          "eael_pricing_table_price_period": "per post",
+                          "eael_pricing_table_period_separator": "\/",
+                          "eael_pricing_table_items": [
+                            {
+                              "eael_pricing_table_item": "Post with (up to) 5 pictures",
+                              "_id": "12bfbd5",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Each picture custom taken by Dale",
+                              "_id": "3f37437",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Custom caption (Up to 100 words & your instagram tagged)",
+                              "_id": "a1e3ddc",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "10 hashtags",
+                              "_id": "6ccf8d1",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "EACH picture tagged with your Instagram handle",
+                              "_id": "b8a5981",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Edit caption up to 24 hours",
+                              "_id": "fabbe9c",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            }
+                          ],
+                          "eael_pricing_table_btn": "Inquire",
+                          "eael_pricing_table_featured": "",
+                          "eael_pricing_table_featured_styles": "ribbon-2",
+                          "eael_pricing_table_featured_tag_text": "Best Deal",
+                          "eael_pricing_table_bg_color": "rgba(255,255,255,0.97)",
+                          "eael_pricing_table_border_radius": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "eael_pricing_table_content_alignment": "left",
+                          "eael_pricing_table_style_2_title_bg_color": "#c7dce5",
+                          "eael_pricing_table_pricing_curr_color": "#00c853",
+                          "eael_pricing_table_list_disable_item_color": "#347500",
+                          "eael_pricing_table_icon_bg_color": "#ef9b00",
+                          "eael_pricing_table_icon_color": "#ffffff",
+                          "eael_pricing_table_btn_normal_bg_color": "#05000c",
+                          "eael_pricing_table_btn_hover_bg_color": "#04a1ef",
+                          "eael_pricing_table_btn_link": {
+                            "url": "#contact",
+                            "is_external": "",
+                            "nofollow": ""
+                          },
+                          "eael_pricing_table_price_preiod_typography_typography": "custom",
+                          "eael_pricing_table_price_preiod_typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 4,
+                            "sizes": [
+                              
+                            ]
+                          }
+                        },
+                        "elements": [
+                          
+                        ],
+                        "isInner": false,
+                        "widgetType": "eael-pricing-table",
+                        "elType": "widget"
+                      }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                  },
+                  {
+                    "id": "2b9d1083",
+                    "settings": {
+                      "_column_size": 25,
+                      "_inline_size": null
+                    },
+                    "elements": [
+                      {
+                        "id": "595cf8ee",
+                        "settings": {
+                          "eael_pricing_table_title": "Video Post",
+                          "eael_pricing_table_sub_title": "",
+                          "eael_pricing_table_style_2_icon_new": {
+                            "value": "fas fa-mobile-alt",
+                            "library": "fa-solid"
+                          },
+                          "eael_pricing_table_price": "5000",
+                          "eael_pricing_table_onsale": "",
+                          "eael_pricing_table_onsale_price": "89",
+                          "eael_pricing_table_price_cur": "$",
+                          "eael_pricing_table_price_period": "per post",
+                          "eael_pricing_table_period_separator": "\/",
+                          "eael_pricing_table_items": [
+                            {
+                              "eael_pricing_table_item": "Custom video ( up to 1 min in length)",
+                              "_id": "12bfbd5",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Mention of business name and\/or product",
+                              "_id": "fb2d1e9",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Custom caption (Up to 100 words & your insta tagged)",
+                              "_id": "c64c3ed",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Demonstrating product use and\/or brief description of business",
+                              "_id": "9074587",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "5 hashtags",
+                              "_id": "6ccf8d1",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            },
+                            {
+                              "eael_pricing_table_item": "Edit caption up to 24 hours",
+                              "_id": "fabbe9c",
+                              "eael_pricing_table_list_icon_new": {
+                                "value": "fas fa-check",
+                                "library": "fa-solid"
+                              },
+                              "eael_pricing_table_icon_mood": "yes",
+                              "eael_pricing_table_list_icon_color": "#00b1d8",
+                              "eael_pricing_item_tooltip": false,
+                              "eael_pricing_item_tooltip_content": "I'm a awesome tooltip!!",
+                              "eael_pricing_item_tooltip_side": "top",
+                              "eael_pricing_item_tooltip_trigger": "hover",
+                              "eael_pricing_item_tooltip_animation": "fade",
+                              "pricing_item_tooltip_animation_duration": 300,
+                              "eael_pricing_table_toolip_arrow": "yes",
+                              "eael_pricing_item_tooltip_theme": "noir"
+                            }
+                          ],
+                          "eael_pricing_table_btn": "Inquire",
+                          "eael_pricing_table_featured": "",
+                          "eael_pricing_table_featured_styles": "ribbon-2",
+                          "eael_pricing_table_featured_tag_text": "Best Deal",
+                          "eael_pricing_table_bg_color": "rgba(255,255,255,0.97)",
+                          "eael_pricing_table_border_radius": {
+                            "unit": "px",
+                            "size": 10,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "eael_pricing_table_content_alignment": "left",
+                          "eael_pricing_table_style_2_title_bg_color": "#c7dce5",
+                          "eael_pricing_table_pricing_curr_color": "#00c853",
+                          "eael_pricing_table_list_disable_item_color": "#347500",
+                          "eael_pricing_table_icon_bg_color": "#ef9b00",
+                          "eael_pricing_table_icon_color": "#ffffff",
+                          "eael_pricing_table_btn_normal_bg_color": "#010c00",
+                          "eael_pricing_table_btn_hover_bg_color": "#04a1ef",
+                          "eael_pricing_table_btn_link": {
+                            "url": "#contact",
+                            "is_external": "",
+                            "nofollow": ""
+                          },
+                          "eael_pricing_table_price_preiod_typography_typography": "custom",
+                          "eael_pricing_table_price_preiod_typography_line_height_mobile": {
+                            "unit": "em",
+                            "size": 4,
+                            "sizes": [
+                              
+                            ]
+                          }
+                        },
+                        "elements": [
+                          
+                        ],
+                        "isInner": false,
+                        "widgetType": "eael-pricing-table",
+                        "elType": "widget"
+                      }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                  }
+                ],
+                "isInner": true,
+                "elType": "section"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "20d888d7",
+        "settings": {
+          "height": "min-height",
+          "background_background": "classic",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Music-Background.jpg",
+            "id": 111
+          },
+          "background_position": "center center",
+          "background_attachment": "fixed",
+          "background_size": "cover",
+          "background_overlay_background": "classic",
+          "background_overlay_color": "#0c0c0c",
+          "_element_id": "music",
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 300,
+            "sizes": [
+              
+            ]
+          },
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 261,
+            "sizes": [
+              
+            ]
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "35",
+            "right": "35",
+            "bottom": "35",
+            "left": "35",
+            "isLinked": true
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "27",
+            "right": "27",
+            "bottom": "27",
+            "left": "27",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "53ae83d7",
+            "settings": {
+              "_column_size": 100
+            },
+            "elements": [
+              {
+                "id": "2fd15e67",
+                "settings": {
+                  "link": {
+                    "url": "https:\/\/soundcloud.com\/postmalone\/hollywoods-bleeding",
+                    "is_external": "",
+                    "nofollow": ""
+                  }
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "audio",
+                "elType": "widget"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      },
+      {
+        "id": "7813a99f",
+        "settings": {
+          "height": "min-height",
+          "custom_height": {
+            "unit": "px",
+            "size": 1112,
+            "sizes": [
+              
+            ]
+          },
+          "background_background": "classic",
+          "background_image": {
+            "url": "http:\/\/localhost\/wordpress\/wp-content\/uploads\/2019\/11\/Contact-Background.jpg",
+            "id": 109
+          },
+          "background_position": "center center",
+          "background_attachment": "scroll",
+          "background_size": "cover",
+          "background_overlay_background": "gradient",
+          "background_overlay_color": "#2d1000",
+          "background_overlay_color_b": "#00334f",
+          "background_overlay_gradient_angle": {
+            "unit": "deg",
+            "size": 250,
+            "sizes": [
+              
+            ]
+          },
+          "background_overlay_opacity": {
+            "unit": "px",
+            "size": 0.77,
+            "sizes": [
+              
+            ]
+          },
+          "padding": {
+            "unit": "px",
+            "top": "0",
+            "right": "300",
+            "bottom": "0",
+            "left": "300",
+            "isLinked": false
+          },
+          "_element_id": "contact",
+          "custom_height_tablet": {
+            "unit": "px",
+            "size": 1100,
+            "sizes": [
+              
+            ]
+          },
+          "custom_height_mobile": {
+            "unit": "px",
+            "size": 1013,
+            "sizes": [
+              
+            ]
+          },
+          "padding_tablet": {
+            "unit": "px",
+            "top": "0",
+            "right": "100",
+            "bottom": "0",
+            "left": "0100",
+            "isLinked": false
+          },
+          "padding_mobile": {
+            "unit": "px",
+            "top": "10",
+            "right": "10",
+            "bottom": "10",
+            "left": "10",
+            "isLinked": true
+          }
+        },
+        "elements": [
+          {
+            "id": "4e16ab46",
+            "settings": {
+              "_column_size": 100,
+              "_inline_size": null,
+              "background_background": "classic",
+              "animation": "fadeInUp"
+            },
+            "elements": [
+              {
+                "id": "67d89ce1",
+                "settings": {
+                  "title": "Get in touch!",
+                  "align": "center",
+                  "title_color": "#ffffff",
+                  "typography_typography": "custom",
+                  "typography_font_size_mobile": {
+                    "unit": "px",
+                    "size": 22,
+                    "sizes": [
+                      
+                    ]
+                  },
+                  "typography_line_height_mobile": {
+                    "unit": "em",
+                    "size": 1.4,
+                    "sizes": [
+                      
+                    ]
+                  }
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "heading",
+                "elType": "widget"
+              },
+              {
+                "id": "10d46a31",
+                "settings": {
+                  "icon_list": [
+                    {
+                      "text": "contact@yourdomain.com",
+                      "selected_icon": {
+                        "value": "far fa-envelope",
+                        "library": "fa-regular"
+                      },
+                      "_id": "a4ab877",
+                      "link": {
+                        "url": "",
+                        "is_external": "",
+                        "nofollow": ""
+                      }
+                    }
+                  ],
+                  "icon_align": "center",
+                  "icon_color": "#bababa",
+                  "text_color": "#bababa"
+                },
+                "elements": [
+                  
+                ],
+                "isInner": false,
+                "widgetType": "icon-list",
+                "elType": "widget"
+              },
+              {
+                "id": "2c0ec1e2",
+                "settings": [
+                  
+                ],
+                "elements": [
+                  {
+                    "id": "33d0b25d",
+                    "settings": {
+                      "_column_size": 100,
+                      "_inline_size": null,
+                      "background_background": "classic",
+                      "background_color": "rgba(255,255,255,0.86)",
+                      "border_radius": {
+                        "unit": "px",
+                        "top": "50",
+                        "right": "50",
+                        "bottom": "50",
+                        "left": "50",
+                        "isLinked": true
+                      },
+                      "padding": {
+                        "unit": "px",
+                        "top": "35",
+                        "right": "35",
+                        "bottom": "35",
+                        "left": "35",
+                        "isLinked": true
+                      }
+                    },
+                    "elements": [
+                      {
+                        "id": "6954f17",
+                        "settings": {
+                          "contact_form_list": "66",
+                          "form_title": "",
+                          "button_width": {
+                            "unit": "px",
+                            "size": 100,
+                            "sizes": [
+                              
+                            ]
+                          },
+                          "button_bg_color_normal": "#0c0c0c",
+                          "button_text_color_normal": "#ffffff",
+                          "button_border_radius": {
+                            "unit": "px",
+                            "top": "40",
+                            "right": "40",
+                            "bottom": "40",
+                            "left": "40",
+                            "isLinked": true
+                          },
+                          "button_bg_color_hover": "#04a1ef",
+                          "button_text_color_hover": "#ffffff"
+                        },
+                        "elements": [
+                          
+                        ],
+                        "isInner": false,
+                        "widgetType": "eael-wpforms",
+                        "elType": "widget"
+                      }
+                    ],
+                    "isInner": true,
+                    "elType": "column"
+                  }
+                ],
+                "isInner": true,
+                "elType": "section"
+              }
+            ],
+            "isInner": false,
+            "elType": "column"
+          }
+        ],
+        "isInner": false,
+        "elType": "section"
+      }
+    ]
+  }
