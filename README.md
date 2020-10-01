@@ -29,6 +29,13 @@ Java is a **programming language** and a **platform** .
 
 ## Hello World
 
+
+add(int, int)
+add(int, int, int)
+2. Data type of parameters.
+For example:
+
+
 - Development Environment
     - Download OpenJDK ([Oracle](https://www.java.com/en/download/))
     - Set Environmental Variables
@@ -107,6 +114,23 @@ Inside `main` method
 		}
 	}
 ```
+## Method Overloading in Java 
+Method Overloading is a feature that allows a class to have more than one method having the same name, if their argument lists are different. It is similar to constructor overloading in Java, that allows a class to have more than one constructor having different argument lists.
+
+let’s get back to the point, when I say argument list it means the parameters that a method has: For example the argument list of a method add(int a, int b) having two parameters is different from the argument list of the method add(int a, int b, int c) having three parameters.
+Three ways to overlaod a method:
+In order to overload a method, the argument lists of the methods must differ in either of these:
+1. Number of parameters.
+For example: This is a valid case of overloading
+add(int, int)
+add(int, float)
+3. Sequence of Data type of parameters.
+For example:
+
+add(int, float)
+add(float, int)
+Invalid case of me
+
 
 **Carefully note :**
 - `System.out.println`
