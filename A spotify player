@@ -1,0 +1,37 @@
+Spotify.com
+## Script section
+
+<section class="elementor-element elementor-element-36e69b12 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" 
+         data-id="36e69b12" data-element_type="section" id="music" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+		 <div class="elementor-background-overlay"></div>
+		 <div class="elementor-container elementor-column-gap-default">
+		 <div class="elementor-row">
+		 <div class="elementor-element elementor-element-5aa67133 elementor-column elementor-col-100 elementor-top-column" data-id="5aa67133" data-element_type="column">
+		 <div class="elementor-column-wrap  elementor-element-populated">
+		 <div class="elementor-widget-wrap">
+		 <div class="elementor-element elementor-element-72704d8c elementor-widget elementor-widget-audio" data-id="72704d8c" data-element_type="widget" data-widget_type="audio.default">
+		 <div class="elementor-widget-container">
+		 <div class="elementor-soundcloud-wrapper">
+         <iframe title="Hollywood's Bleeding by Post Malone" width="1200" height="200" scrolling="no" frameborder="no" 
+         src="https://w.soundcloud.com/player/?visual=false&amp;url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F676727373&amp;show_artwork=true&amp;maxwidth=1200&amp;maxheight=1000&amp;dnt=1&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;color"></iframe>			</div>
+		 </div>
+		 </div>
+		 </div>
+         </div>
+		 </div>
+		 </div>
+		 </div>
+		 </section> 
+		 
+##Element CSS
+		 -webkit-font-smoothing: antialiased;
+line-height: 1.85714285714286;
+font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+color: #3a3a3a;
+hyphens: manual;
+font-size: 100%;
+font-style: inherit;
+font-weight: inherit;
+display: block;
+box-sizing: border-box;
+position: relative;
